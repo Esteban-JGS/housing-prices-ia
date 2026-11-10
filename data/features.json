@@ -1,0 +1,26 @@
+{
+  "features": [
+    "GrLivArea",
+    "TotalBsmtSF",
+    "1stFlrSF",
+    "2ndFlrSF",
+    "LotArea",
+    "YearBuilt",
+    "YearRemodAdd",
+    "OverallQual",
+    "OverallCond",
+    "GarageCars",
+    "GarageArea",
+    "FullBath",
+    "HalfBath",
+    "BedroomAbvGr",
+    "TotRmsAbvGrd",
+    "Fireplaces",
+    "MSZoning",
+    "Neighborhood",
+    "KitchenQual",
+    "BsmtQual",
+    "ExterQual",
+    "Foundation"
+  ]
+}
